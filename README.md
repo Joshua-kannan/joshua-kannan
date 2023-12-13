@@ -1,5 +1,7 @@
-# 💫 About Me:
-🔭 I  am currently Freelancing<br><br>🌱 I’m currently learning Hybrid Application Development (on the side).<br><br>👨‍💻 Some of my projects are available at joshuakannan.com<br><br>📫 How to reach me: joshuakannanwork@gmail.com<br><br>📄 See my resume
+<h1 align="center">Hi 👋, I'm Joshua Kannan </h1>
+<h3 align="center">A curious frontend developer</h3>
+
+🔭 I  am currently Freelancing<br><br>🌱 I’m currently learning Hybrid Application Development (on the side).<br><br>👨‍💻 Some of my projects are available at [joshuakannan.com](https://joshuakannan.com/)<br><br>📫 How to reach me:  **[joshuakannanwork@gmail.com](mailto:joshuakannanwork@gmail.com)**<br><br>📄 See my resume
 
 
 ## 🌐 Socials:
