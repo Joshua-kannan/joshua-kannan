@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshua Kannan </h1>
-<h3 align="center">A curious frontend developer</h3>
+<h3 align="center">A curious Frontend Developer</h3>
 
 [![](https://visitcount.itsvg.in/api?id=joshua-kannan&icon=1&color=1)](https://visitcount.itsvg.in)
 
