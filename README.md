@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Joshua Kannan </h1>
 <h3 align="center">A curious frontend developer</h3>
 
+[![](https://visitcount.itsvg.in/api?id=joshua-kannan&icon=1&color=1)](https://visitcount.itsvg.in)
+
 🔭 I  am currently Freelancing<br><br>🌱 I’m currently learning Hybrid Application Development (on the side).<br><br>👨‍💻 Some of my projects are available at [joshuakannan.com](https://joshuakannan.com/)<br><br>📫 How to reach me:  **[joshuakannanwork@gmail.com](mailto:joshuakannanwork@gmail.com)**<br><br>📄 See my resume
 
 
