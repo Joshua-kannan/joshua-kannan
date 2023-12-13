@@ -3,7 +3,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=joshua-kannan&icon=1&color=1)](https://visitcount.itsvg.in)
 
-🔭 I  am currently Freelancing<br><br>🌱 I’m currently learning Hybrid Application Development.<br><br>👨‍💻 Some of my projects are available at [joshuakannan.com](https://joshuakannan.com/)<br><br>📫 How to reach me:  **[joshuakannanwork@gmail.com](mailto:joshuakannanwork@gmail.com)**<br><br>📄 [See my Resume](https://docs.google.com/document/d/1qC1Sx92_qgvY4QCGF_i34AbA-rapiX9qtGOz239URyQ/edit)
+🔭 I am currently crafting digital experiences as a Frontend Developer.  <br><br>🚀 Embarking on a journey as a Frontend Developer, shaping pixels into seamless user experiences. <br><br>🌱 I’m currently learning Hybrid Application Development.<br><br>👨‍💻 Some of my projects are available at [joshuakannan.com](https://joshuakannan.com/)<br><br>📫 How to reach me:  **[joshuakannanwork@gmail.com](mailto:joshuakannanwork@gmail.com)**<br><br>📄 [See my Resume](https://docs.google.com/document/d/1qC1Sx92_qgvY4QCGF_i34AbA-rapiX9qtGOz239URyQ/edit)
 
 
 ## 🌐 Socials:
